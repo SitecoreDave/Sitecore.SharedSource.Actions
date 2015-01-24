@@ -38,6 +38,7 @@
     <Reference Include="System.Web" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\Item\Action.cs" />
     <Compile Include="Commands\System\Navigate.cs" />
     <Compile Include="Processors\CopyProcessor.cs" />
     <Compile Include="Processors\IItemActionProcessor.cs" />
