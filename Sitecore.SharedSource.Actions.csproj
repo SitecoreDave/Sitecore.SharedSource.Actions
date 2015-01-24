@@ -39,6 +39,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\System\Navigate.cs" />
+    <Compile Include="Processors\CopyProcessor.cs" />
+    <Compile Include="Processors\IItemActionProcessor.cs" />
+    <Compile Include="Processors\ItemActionProcessorArg.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -48,6 +51,7 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>copy $(TargetPath) D:\webs\sc72demo\Website\bin</PostBuildEvent>
