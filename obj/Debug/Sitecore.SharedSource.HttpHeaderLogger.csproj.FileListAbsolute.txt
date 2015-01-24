@@ -1,0 +1,7 @@
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\bin\Debug\Sitecore.SharedSource.HttpHeaderLogger.dll.config
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\bin\Debug\Sitecore.SharedSource.HttpHeaderLogger.dll
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\bin\Debug\Sitecore.SharedSource.HttpHeaderLogger.pdb
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\bin\Debug\Newtonsoft.Json.dll
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\obj\Debug\Sitecore.SharedSource.HttpHeaderLogger.dll
+D:\code\github\Sitecore.SharedSource.HttpHeaderLogger\Sitecore.SharedSource.HttpHeaderLogger\obj\Debug\Sitecore.SharedSource.HttpHeaderLogger.pdb

@@ -1,0 +1,9 @@
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Sitecore.SharedSource.GeoRedirector.dll.config
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Sitecore.SharedSource.GeoRedirector.dll
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Sitecore.SharedSource.GeoRedirector.pdb
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Newtonsoft.Json.dll
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Sitecore.Analytics.dll
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\bin\Debug\Newtonsoft.Json.xml
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\obj\Debug\Sitecore.SharedSource.GeoRedirector.dll
+D:\code\github\Sitecore.SharedSource.GeoRedirector\Sitecore.SharedSource.GeoRedirector\obj\Debug\Sitecore.SharedSource.GeoRedirector.pdb

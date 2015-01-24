@@ -1,0 +1,7 @@
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\bin\Debug\Sitecore.SharedSource.Actions.dll.config
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\bin\Debug\Sitecore.SharedSource.Actions.dll
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\bin\Debug\Sitecore.SharedSource.Actions.pdb
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\bin\Debug\Newtonsoft.Json.dll
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\obj\Debug\Sitecore.SharedSource.Actions.dll
+D:\code\github\Sitecore.SharedSource.Actions\Sitecore.SharedSource.Actions\obj\Debug\Sitecore.SharedSource.Actions.pdb

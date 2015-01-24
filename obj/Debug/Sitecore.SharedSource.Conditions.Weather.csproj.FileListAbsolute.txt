@@ -1,0 +1,10 @@
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Sitecore.SharedSource.Conditions.Weather.dll.config
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Sitecore.SharedSource.Conditions.Weather.dll
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Sitecore.SharedSource.Conditions.Weather.pdb
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Newtonsoft.Json.dll
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Sitecore.Analytics.dll
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Sitecore.Kernel.dll
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\bin\Debug\Newtonsoft.Json.xml
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\obj\Debug\Sitecore.SharedSource.Conditions.Weather.dll
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\obj\Debug\Sitecore.SharedSource.Conditions.Weather.pdb
+D:\code\github\Sitecore.SharedSource.Conditions.Weather\Sitecore.SharedSource.Conditions.Weather\obj\Debug\Sitecore.SharedSource.Conditions.Weather.csprojResolveAssemblyReference.cache
